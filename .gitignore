@@ -1,3 +1,4 @@
 *.o
 scanner
 parser
+kplc
